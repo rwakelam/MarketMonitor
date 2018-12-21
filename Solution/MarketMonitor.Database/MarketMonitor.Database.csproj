@@ -48,6 +48,7 @@
     <Content Include="rh.exe">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Scripts\any\030 Load OrderType.sql" />
     <Content Include="Scripts\any\020 Load OrderStatus.sql" />
     <Content Include="Scripts\any\010 Load OrderSide.sql" />
     <Content Include="Scripts\up\0010 Create Database Objects.sql">
